@@ -1,0 +1,36 @@
+---
+title: "Currículo"
+subtitle: "Formação, experiência profissional e interesses de pesquisa"
+toc: true
+---
+
+## Formação acadêmica
+
+- **Mestrado em Economia** — Universidade Federal do ABC (UFABC)
+- **Graduação em Ciências Econômicas** — Universidade Federal de Ouro Preto (UFOP)
+- **Graduação em Filosofia** — Universidade Federal de Ouro Preto (UFOP)
+
+## Experiência profissional
+
+### Atual
+
+- **Analista de Monitoramento e Avaliação** — Instituto Unibanco
+  Monitoramento e avaliação de programas e políticas educacionais, com foco em equidade e decisão orientada por evidências.
+- **Consultor de Dados e Indicadores Sociais** — IMDS (Instituto Mineiro de Desenvolvimento Socioambiental)
+- **Pesquisador** — [Núcleo MAPA](https://www.nucleomapa.org)
+
+### Anterior
+
+- **Analista de Pesquisa em Educação** — Instituto Unibanco
+- **Diretor de Estudos Econômicos** — Secretaria de Desenvolvimento Econômico, Inovação e Tecnologia, Prefeitura de Ouro Preto (MG)
+- **Assessor de Estudos Econômicos** — Secretaria de Desenvolvimento Econômico, Inovação e Tecnologia, Prefeitura de Ouro Preto (MG)
+- **Assessor de Comunicação** — Secretaria Municipal de Saúde de Ouro Preto (MG)
+
+## Currículo completo
+
+```{=html}
+<div class="hero-actions">
+  <a href="https://drive.google.com/file/d/1mHu-ume_kNsjtJ4qnpEmx4CEeFeZaJX8/view" class="btn-fr">Baixar CV (PDF)</a>
+  <a href="http://lattes.cnpq.br/1956089489809622" class="btn-fr btn-fr-ghost">Currículo Lattes →</a>
+</div>
+```

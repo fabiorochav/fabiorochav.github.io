@@ -1,0 +1,16 @@
+---
+title: "Ensino"
+subtitle: "Cursos e conteúdo sobre análise de dados públicos com R"
+toc: true
+---
+
+## Cursos
+
+- [**Br-Dados**](https://rochaviannafj.kpages.online/pagina-de-vendas-4406c28a-e901-4afd-9df1-4a248b6de9c7) — curso completo de análise de dados públicos com R
+- [**Introdução à inferência causal**](https://www.youtube.com/playlist?list=PLIbZ5l3A_V8vEb6_U14pJSOn_AnuzzzS7) — playlist no YouTube
+
+## Trilhas temáticas com R
+
+[**Playlists no canal Rocha Data in R**](https://www.youtube.com/@RochaDatainR/playlists): microeconometria, saúde pública (Datasus), resultados eleitorais (TSE), dados educacionais (Enem, Saeb/Ideb) e mercado de trabalho (Rais, Caged).
+
+Canal no YouTube: [Rocha Data in R](https://www.youtube.com/@RochaDatainR)

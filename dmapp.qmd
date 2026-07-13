@@ -1,0 +1,42 @@
+---
+title: "DMAPP"
+subtitle: "Dados, Métodos e Avaliação de Políticas Públicas (em constante construção)"
+toc: true
+---
+
+Hub de recursos reunindo materiais sobre inferência causal e avaliação de políticas públicas.
+
+## Livros — Inferência causal e políticas públicas
+
+- [**Inferência causal - Mixtape**](https://mixtape.scunning.com/)
+- [**Inferência causal - The Effect**](https://theeffectbook.net/)
+- [**Applied Microeconometrics**](https://damianclarke.net/books/microeconometrics/)
+- [**Políticas Públicas - Análise Ex-ante (IPEA)**](https://repositorio.ipea.gov.br/handle/11058/17322)
+- [**Avaliação de Políticas Públicas: Guia Prático de Análise Ex-Ante (Governo)**](https://www.gov.br/casacivil/pt-br/assuntos/downloads/153743_analise-ex-ante_web_novo.pdf/@@download/file)
+- [**Avaliação de Políticas Públicas: Guia Prático de Análise Ex Post (Governo)**](https://www.gov.br/casacivil/pt-br/assuntos/downloads/guiaexpost.pdf/@@download/file)
+- [**Monitoramento e Avaliação de Políticas Públicas (FGV-Clear)**](https://fgvclear.org/estudos/guia-clear-monitoramento-e-avaliacao-de-politicas-publicas/)
+- [**Diagnósticos dos sistemas de avaliação de políticas públicas no Brasil (FGV-Clear)**](https://fgvclear.org/estudos/diagnostico-dos-sistemas-de-avaliacao-de-politicas-publicas-no-brasil/)
+- [**Avaliação econômica de projetos sociais (Itaú Social)**](https://www.itausocial.org.br/wp-content/uploads/2018/05/avaliacao-economica-3a-ed_1513188151.pdf)
+- [**Avaliação de impacto na prática (Banco Mundial)**](https://publications.iadb.org/publications/portuguese/document/Avalia%C3%A7%C3%A3o-de-impacto-na-pr%C3%A1tica-Segunda-edi%C3%A7%C3%A3o.pdf)
+- [**Avaliação de Impacto das Políticas de Saúde - Um guia para o SUS**](https://bvsms.saude.gov.br/bvs/publicacoes/avaliacao_impacto_politicas_saude_guia_sus.pdf)
+
+## Cursos gratuitos
+
+- [**Avaliação de Impacto de Programas e Políticas Sociais**](https://www.escolavirtual.gov.br/curso/98) — J-PAL/Enap
+- [**Análise Ex Ante de Políticas Públicas**](https://www.escolavirtual.gov.br/curso/142) — Enap
+- [**Avaliação de impacto**](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/avaliacao-de-impacto) — FGV
+- [**Monitoramento e Avaliação de Políticas Públicas**](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/monitoramento-e-avaliacao-de-politicas-publicas) — FGV
+- [**Avaliação Executiva**](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/avaliacao-executiva) — FGV
+- [**Curso Avançado de Avaliação de Projetos Sociais**](https://www.youtube.com/watch?v=Rj7H5J5NICs&list=PLMwCZTyHngImv8KAhNo-S4Lzmk2FllN0S) — Itaú Social
+- [**Conheça o SUS - Introdução ao Sistema Único de Saúde**](https://cursosqualificacao.campusvirtual.fiocruz.br/hotsite/introducaosus) — Fiocruz
+
+## Pacotes para micreiros (microeconometristas)
+
+- [**censobr**](https://ipeagit.github.io/censobr/index.html)
+- [**brverse**](https://github.com/ipea/brverse)
+
+## Sites relevantes
+
+- [**Avaliação de Políticas Públicas** — Governo Federal](http://www.gov.br/planejamento/pt-br/assuntos/avaliacao-de-politicas-publicas-1)
+- [**Metodologia de Avaliação Padronizada de Políticas Públicas (MAPP)** — Governo Federal](https://mapp.planejamento.gov.br/home)
+- [**Catálogo de Políticas Públicas** — IPEA](https://www.ipea.gov.br/portal/categoria-projetos-e-estatisticas/13492-catalogo-de-politicas-publicas)

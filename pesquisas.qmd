@@ -1,0 +1,25 @@
+---
+title: "Produções/Pesquisas"
+subtitle: "Pesquisa, relatórios técnicos e projetos de consultoria"
+toc: true
+---
+
+## Pesquisa e publicações
+
+- **Composição Racial das Turmas e Desempenho no Ensino Médio Brasileiro: Evidências Causais Heterogêneas** — UFABC
+- [**Birth Weight and Exposure to Environmental Disasters in Brazil: Empirical Evidence**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6791239) — SSRN
+- [**Peso dos nascidos vivos em Minas Gerais: um estudo em coorte 2016-2020 de variáveis determinantes**](https://www.monografias.ufop.br/handle/35400000/5323) — UFOP
+
+## Relatórios técnicos
+
+- [**Índice de Atividade Econômica de Ouro Preto (IAE-Ouro Preto)**](https://www.ouropreto.mg.gov.br/static/arquivos/menus_areas/indice_atividade_economica.pdf?dc=9830)
+- [**Criminalidade na Região dos Inconfidentes**](https://www.ouropreto.mg.gov.br/static/arquivos/menus_areas/criminalidade.pdf?dc=8648)
+- [**Produtividade do trabalho e informalidade em Ouro Preto: evolução 2012-2020**](https://www.ouropreto.mg.gov.br/static/arquivos/menus_areas/produtividade.pdf?dc=7128)
+- [**Mercado de trabalho de Ouro Preto e municípios selecionados**](https://www.ouropreto.mg.gov.br/static/arquivos/menus_areas/relatorio_trabalho.pdf?dc=2012)
+
+## Projetos comerciais e de consultoria
+
+- [**Panorama Socioeconômico e Urbano de Santo André: Indicadores de Desenvolvimento**](https://drive.google.com/file/d/1ZzI7gBAcgM6bRwdsHbcy1-7doiVzSmEB/view)
+- Triunfo Eucarístico — Perfil do Público (Ouro Preto, MG)
+- Natal de Ouro Preto: Luz e História — Perfil do Público e Expectativa (Ouro Preto, MG)
+- Arte e Cultura no Parque das Andorinhas — Perfil do Público e Expectativa (Ouro Preto, MG)
