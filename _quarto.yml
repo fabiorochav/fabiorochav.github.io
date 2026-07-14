@@ -31,7 +31,6 @@ website:
       - href: "mailto:rochaviannafj@gmail.com"
         text: Contato
   page-footer:
-    background: "#14213D"
     left: "© 2026 Fábio Rocha"
     center: "[Início](index.qmd) · [Currículo](cv.qmd) · [Produções/Pesquisas](pesquisas.qmd) · [DMAPP](dmapp.qmd) · [Ensino](ensino.qmd)"
     right: "[LinkedIn](https://www.linkedin.com/in/f%C3%A1bio-rocha/) · [GitHub](https://github.com/fabiorochav) · [rochaviannafj@gmail.com](mailto:rochaviannafj@gmail.com)"

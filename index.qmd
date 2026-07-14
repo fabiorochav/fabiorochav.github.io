@@ -6,14 +6,18 @@ toc: false
 
 ```{=html}
 <div class="hero">
-  <img class="profile-photo" src="assets/fabio.jpeg" alt="Fábio Rocha">
-  <p class="section-kicker">Economista</p>
-  <h1>Fábio Rocha</h1>
-  <p>Analista de Monitoramento e Avaliação no Instituto Unibanco e consultor de dados e indicadores sociais no IMDS (Instituto Mineiro de Desenvolvimento Socioambiental). Trabalho com inferência causal, análise de dados públicos e avaliação de políticas públicas, com foco em educação, saúde e desenvolvimento local.</p>
-  <div class="hero-actions">
-    <a href="pesquisas.qmd" class="btn-fr">Ver projetos</a>
-    <a href="cv.qmd" class="btn-fr btn-fr-ghost">Currículo →</a>
-    <a href="mailto:rochaviannafj@gmail.com" class="btn-fr btn-fr-ghost">Contato →</a>
+  <div class="hero-photo-wrap">
+    <img class="profile-photo" src="assets/fabio.jpeg" alt="Fábio Rocha">
+  </div>
+  <div class="hero-content">
+    <p class="section-kicker">Economista</p>
+    <h1>Fábio Rocha</h1>
+    <p class="lead">Analista de Monitoramento e Avaliação no Instituto Unibanco e consultor de dados e indicadores sociais no IMDS (Instituto Mineiro de Desenvolvimento Socioambiental). Trabalho com inferência causal, análise de dados públicos e avaliação de políticas públicas, com foco em educação, saúde e desenvolvimento local.</p>
+    <div class="hero-actions">
+      <a href="pesquisas.qmd" class="btn-fr">Ver projetos</a>
+      <a href="cv.qmd" class="btn-fr btn-fr-ghost">Currículo →</a>
+      <a href="mailto:rochaviannafj@gmail.com" class="btn-fr btn-fr-ghost">Contato →</a>
+    </div>
   </div>
 </div>
 ```
@@ -25,17 +29,14 @@ toc: false
 ```{=html}
 <div class="cards-feature">
   <div class="card-feature">
-    <div class="card-feature-icon">A</div>
     <h3>Avaliação de políticas públicas</h3>
     <p>Desenho de avaliação e inferência causal aplicada a programas nas áreas de educação, saúde e desenvolvimento local.</p>
   </div>
   <div class="card-feature">
-    <div class="card-feature-icon">D</div>
     <h3>Análise de dados públicos</h3>
     <p>Diagnósticos e indicadores a partir de bases como PNAD Contínua, Datasus, Saeb, Enem, Rais e Caged.</p>
   </div>
   <div class="card-feature">
-    <div class="card-feature-icon">E</div>
     <h3>Ensino de R aplicado</h3>
     <p>Cursos e conteúdo sobre análise de dados públicos com R, do básico à microeconometria.</p>
   </div>
