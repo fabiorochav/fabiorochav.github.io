@@ -59,7 +59,7 @@ main.content, .column-page, .column-page-left { width: 100%; max-width: var(--fr
 
 /* --- hero (trestles-style: photo + content side by side) --- */
 .hero {
-  display: flex; align-items: flex-start; gap: 2.6rem;
+  display: flex; align-items: center; gap: 2.6rem;
   padding: 2.6rem 0 2.8rem; margin-bottom: 0.5rem;
   border-bottom: 1px solid var(--fr-border);
 }
