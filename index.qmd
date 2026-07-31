@@ -1,6 +1,7 @@
 ---
 title: "Fábio Rocha"
 subtitle: "Economista · Dados públicos, avaliação de políticas e inferência causal"
+title-block-style: none
 toc: false
 ---
 
