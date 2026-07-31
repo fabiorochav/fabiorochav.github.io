@@ -72,7 +72,7 @@ main.content, .column-page, .column-page-left { width: 100%; max-width: var(--fr
   margin-bottom: 0.5rem; color: var(--fr-accent);
 }
 
-.profile-photo { width: 9.5rem; height: 9.5rem; object-fit: contain; background: var(--fr-accent-soft); border-radius: 50%; border: 1px solid var(--fr-border); margin-bottom: 0; }
+.profile-photo { width: 9.5rem; height: 9.5rem; object-fit: cover; background: var(--fr-accent-soft); border-radius: 50%; border: 1px solid var(--fr-border); margin-bottom: 0; }
 
 /* --- buttons --- */
 .btn-fr {
