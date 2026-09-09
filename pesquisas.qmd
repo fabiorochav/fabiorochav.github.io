@@ -6,7 +6,7 @@ toc: true
 
 ## Pesquisa e publicações
 
-- **Composição Racial das Turmas e Desempenho no Ensino Médio Brasileiro: Evidências Causais Heterogêneas** — UFABC
+- [**Composição racial das turmas e desempenho escolar no ensino médio público brasileiro: evidências causais a partir dos microdados do SAEB 2023**](https://biblioteca.ufabc.edu.br/info.php?c=154407) — Dissertação de mestrado, UFABC
 - [**Birth Weight and Exposure to Environmental Disasters in Brazil: Empirical Evidence**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6791239) — SSRN
 - [**Peso dos nascidos vivos em Minas Gerais: um estudo em coorte 2016-2020 de variáveis determinantes**](https://www.monografias.ufop.br/handle/35400000/5323) — UFOP
 
