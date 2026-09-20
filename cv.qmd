@@ -7,7 +7,7 @@ toc: true
 ## Formação acadêmica
 
 - **Mestrado em Economia** — Universidade Federal do ABC (UFABC)
-  Dissertação: [*Composição racial das turmas e desempenho escolar no ensino médio público brasileiro: evidências causais a partir dos microdados do SAEB 2023*](https://biblioteca.ufabc.edu.br/info.php?c=154407)
+  Dissertação: [*Composição racial das turmas e desempenho escolar no ensino médio público brasileiro: evidências causais a partir dos microdados do SAEB 2023*](https://biblioteca.ufabc.edu.br/TerminalWeb/acervo/detalhe/154407?guid=1789499231992&returnUrl=%2fTerminalWeb%2fresultado%2flistar%3fguid%3d1789499231992%26quantidadePaginas%3d1%26codigoRegistro%3d154407%23154407&i=1)
 - **Graduação em Ciências Econômicas** — Universidade Federal de Ouro Preto (UFOP)
 - **Graduação em Filosofia** — Universidade Federal de Ouro Preto (UFOP)
 
