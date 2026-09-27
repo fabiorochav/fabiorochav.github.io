@@ -16,6 +16,7 @@ Hub de recursos reunindo materiais sobre inferência causal e avaliação de pol
 - [**Avaliação de Políticas Públicas: Guia Prático de Análise Ex Post (Governo)**](https://www.gov.br/casacivil/pt-br/assuntos/downloads/guiaexpost.pdf/@@download/file)
 - [**Monitoramento e Avaliação de Políticas Públicas (FGV-Clear)**](https://fgvclear.org/estudos/guia-clear-monitoramento-e-avaliacao-de-politicas-publicas/)
 - [**Diagnósticos dos sistemas de avaliação de políticas públicas no Brasil (FGV-Clear)**](https://fgvclear.org/estudos/diagnostico-dos-sistemas-de-avaliacao-de-politicas-publicas-no-brasil/)
+- [**Avaliação de Impacto: Método de Diferença-em-Diferenças (FGV-Clear)**](https://fgvclear.org/website/wp-content/uploads/fechado-did.pdf)
 - [**Avaliação econômica de projetos sociais (Itaú Social)**](https://www.itausocial.org.br/wp-content/uploads/2018/05/avaliacao-economica-3a-ed_1513188151.pdf)
 - [**Avaliação de impacto na prática (Banco Mundial)**](https://publications.iadb.org/publications/portuguese/document/Avalia%C3%A7%C3%A3o-de-impacto-na-pr%C3%A1tica-Segunda-edi%C3%A7%C3%A3o.pdf)
 - [**Avaliação de Impacto das Políticas de Saúde - Um guia para o SUS**](https://bvsms.saude.gov.br/bvs/publicacoes/avaliacao_impacto_politicas_saude_guia_sus.pdf)
